@@ -1,5 +1,8 @@
 # wordpress-installer
 WordPress installation script Assignment for Pepper Square
+
+![Alt text](peppersquare.png "WordPress Installer")
+
 ## Download the script
 
 ```shell
